@@ -7,4 +7,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+
+    // onboarding colors
+    <color name="background">#025086</color>
+    <color name="buttoncontext">#FFFFFF</color>
+
+    //indicater color
+
+    <color name="active">#FFD500</color>
+    <color name="inactive">#988835</color>
+
 </resources>

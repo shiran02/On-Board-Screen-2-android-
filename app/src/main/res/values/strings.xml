@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">OnboardingScreen</string>
+
+    //heading
+    <string name="heading_one">මාර්ග සංඥා</string>
+    <string name="heading_two">අදර්ශ ප්‍රශ්ණ පත්‍ර</string>
+
+    //description
+    <string name="desc_one">අදර්ශ ප්‍රශ්ණ පත්‍ර</string>
+
+
 </resources>
