@@ -6,7 +6,8 @@
     <string name="heading_two">අදර්ශ ප්‍රශ්ණ පත්‍ර</string>
 
     //description
-    <string name="desc_one">අදර්ශ ප්‍රශ්ණ පත්‍ර</string>
+    <string name="desc_one">මෙම ජංගම යෙදුමේ ප්‍රශ්ණ පත්‍ර 4ක් ඇතුලත් වේ.ඔබට එය විභාගය සමත් විමට බොහො උපකාර වේ</string>
+    <string name="desc_two">මෙහි සියලුම මර්ග සංඥා ඉතා පිලිවෙලට කණ්ඩ කර ඇත.එය ඉතා පහසුවෙන් මතකයෙ රදවා ගැනිමට හැකිවන අයුරින් සකසා ඇත.</string>
 
 
 </resources>
